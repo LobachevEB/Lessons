@@ -5,7 +5,7 @@ public class Lesson1 {
         int i = 0;
         long lng = 0;
         boolean flag = false;
-        String s = "Джон";
+        String s = "Вася";
     }
 
     public static float calcByFormula(float a,float b,float c,float d){
